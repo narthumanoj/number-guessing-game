@@ -34,7 +34,6 @@ number-guessing-game/
 ├── number_guess.py       # Main Python script
 └── README.md             # Project documentation
 
-
 ## 👨‍💻 Author
 
 Created by [N.MANOJ],SRM Institute of Science and Technology (KTR Campus) 
