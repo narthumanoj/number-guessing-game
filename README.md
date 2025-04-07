@@ -27,3 +27,14 @@ Then open your terminal or command prompt and run:
 
 ```bash
 python number_guess.py
+
+## 📁 Project Structure
+number-guessing-game/
+│
+├── number_guess.py       # Main Python script
+└── README.md             # Project documentation
+
+
+## 👨‍💻 Author
+
+Created by [N.MANOJ],SRM Institute of Science and Technology (KTR Campus) 
